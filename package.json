@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://justin-lourie-cole.github.io/chat-app/",
+  "homepage": "https://justin-lourie-cole.github.io/fuzzy-octo-palm-tree/",
   "devDependencies": {
     "cssnano": "^4.1.10",
     "parcel-bundler": "^1.12.4"
